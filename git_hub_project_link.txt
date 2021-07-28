@@ -1,0 +1,9 @@
+GA Project Uni Ranking
+
+Name : Mohd Shafiq Shazwan Bin Mohd Nizar
+Course : Pyhton Programming
+
+Git Hub : https://github.com/shafiqshazwan/GA_project_uni_ranking
+
+Datasets retrieved from:
+https://www.kaggle.com/mylesoneill/world-university-rankings
